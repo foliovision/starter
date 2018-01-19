@@ -1,4 +1,4 @@
-baseurl: /foliovision/starter
+baseurl: /#foliovision/starter/preview
 permalink: pretty
 markdown: rdiscount
 prose:
