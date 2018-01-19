@@ -2,9 +2,9 @@
 layout: blog
 category: blog
 published: true
-splash: 'https://cdn.uncoy.com/images/2017/05/Berlin-needle-from-Gendarmenmarkt.jpg'
+splash: >-
+  https://cdn.uncoy.com/images/2017/05/Berlin-needle-from-Gendarmenmarkt-940x624.jpg
 title: Untitled
-tags: ''
 ---
 
 
